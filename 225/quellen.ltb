@@ -12,14 +12,3 @@ spectroscopy},
     publisher={J. Phys. F: Met. Phys. 15 1651}
 }
 
-\bib{diploma}{article}{
-	title={Photorefraktiver Effekt in Lithiumniobat: Optimierung der Antwortzeit und Anwendung in der Atomstrahl-Lithographie}
-	author={M. Flaspöhler}
-	year={2000}
-}
-
-\bib{demtroed2}{book}{
-    title={Experimentalphysik 2},
-    author={W. Demtröder},
-    year={1995}
-}
